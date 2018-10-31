@@ -1,1 +1,1 @@
-# Finan-ni-praktikum
+# Financni-praktikum
