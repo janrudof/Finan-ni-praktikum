@@ -1,3 +1,3 @@
-# Financni praktikum
+﻿# Finančni praktikum
 
-Koncana prva naloga pri predmetu Financni praktikum.
+Končana prva naloga pri predmetu Finančni praktikum.
